@@ -1,7 +1,7 @@
 {
   "name": "just-now-time",
   "description": "获取当天日期，格式化日期，获取中英文星期几等日期相关处理函数/functions for date",
-  "version": "1.0.11",
+  "version": "1.0.20",
   "author": "zhuzhuxiaggboy",
   "main": "index.js",
   "private": false,
