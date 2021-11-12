@@ -1,28 +1,24 @@
 {
-  "name": "math-float-deal",
-  "description": "A simple npm package for deal ja",
-  "version": "1.0.8",
+  "name": "just-now-time",
+  "description": "获取当天日期，格式化日期，获取中英文星期几等日期相关处理函数/functions for date",
+  "version": "1.0.11",
   "author": "zhuzhuxiaggboy",
   "main": "index.js",
   "private": false,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zqy233/math-float-deal"
+    "url": "https://github.com/zqy233/just-now-time"
   },
   "bugs": {
-    "url": "https://github.com/zqy233/math-float-deal/issues"
+    "url": "https://github.com/zqy233/just-now-time/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "file-saver": "^2.0.5",
-    "xlsx": "^0.17.1",
-    "xlsx-style-d807": "^0.8.14"
-  },
+  "dependencies": {},
   "keywords": [
-    "",
-    "xlsx"
+    "date",
+    "javascript"
   ]
 }
